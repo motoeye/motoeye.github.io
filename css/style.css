@@ -103,7 +103,7 @@ section {
   text-align: center;
 }
 section:nth-child(even) {
-  background: #5b617d;
+  background: #8a8fa5;
 }
 section:nth-child(odd) {
   background: #eff9ff;
