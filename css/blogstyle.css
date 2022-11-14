@@ -99,15 +99,15 @@ h1 {
 section {
   width: 100%;
   height: 100%;
-  background: #fff;
+  background: #aebbf5;
   border-bottom: 1px solid #ccc;
   text-align: center;
 }
 section:nth-child(even) {
-  background: #8a8fa5;
+  background: #aebbf5;
 }
 section:nth-child(odd) {
-  background: #eff9ff;
+  background: #aebbf5;
 }
 .sections section:first-child {
   margin-top: 100px;
@@ -121,7 +121,7 @@ section:nth-child(odd) {
   margin: 30%;
   margin-top: 0px;
   margin-bottom: 40px;
-  background-color: rgb(144, 32, 32);
+  background-color: white;
   color: black;
   border: 2px solid #34495e;
   border-radius: 10px;
