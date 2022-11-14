@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: bitter;
-    color: #aebbf5;
 }
 html,
 body {
@@ -62,6 +61,7 @@ a.active {
 }
 body {
   font-family: 'Open Sans', sans-serif;
+  background-color: #aebbf5;
 }
 nav {
   width: 100%;
