@@ -107,7 +107,7 @@ section:nth-child(even) {
   background: #ecf0f1;
 }
 section:nth-child(odd) {
-  background: #eff9ff;
+  background: #ecf0f1;
 }
 .sections section:first-child {
   margin-top: 100px;
