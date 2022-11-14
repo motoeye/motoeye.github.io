@@ -99,7 +99,7 @@ h1 {
 section {
   width: 100%;
   height: 100%;
-  background: rgb(128, 13, 13);
+  background: #fff;
   border-bottom: 1px solid #ccc;
   text-align: center;
 }
@@ -121,7 +121,7 @@ section:nth-child(odd) {
   margin: 30%;
   margin-top: 0px;
   margin-bottom: 40px;
-  background-color: white;
+  background-color: rgb(144, 32, 32);
   color: black;
   border: 2px solid #34495e;
   border-radius: 10px;
