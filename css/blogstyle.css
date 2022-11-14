@@ -80,7 +80,7 @@ nav ul li {
 }
 nav ul li a {
   padding: 10px 0;
-  color: #fff;
+  color: #aebbf5;
   font-size: 1rem;
   text-decoration: none;
   font-weight: bold;
@@ -99,7 +99,7 @@ h1 {
 section {
   width: 100%;
   height: 100%;
-  background: #aebbf5;
+  background: #fff;
   border-bottom: 1px solid #ccc;
   text-align: center;
 }
@@ -107,7 +107,7 @@ section:nth-child(even) {
   background: #aebbf5;
 }
 section:nth-child(odd) {
-  background: #aebbf5;
+  background: #eff9ff;
 }
 .sections section:first-child {
   margin-top: 100px;

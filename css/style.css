@@ -152,6 +152,7 @@ footer ul {
   vertical-align: middle;
 }
 .team-member-name {
+  font-weight: bold;
   color: black;
   margin: 10px 0px;
 }
