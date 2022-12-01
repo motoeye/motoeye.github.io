@@ -96,6 +96,7 @@ h1 {
   padding: 5%;
 }
 section {
+  padding-top: 5px;
   width: auto;
   height: auto;
   background: #fff;
