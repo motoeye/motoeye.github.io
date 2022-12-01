@@ -96,10 +96,11 @@ h1 {
   padding: 5%;
 }
 section {
+  padding: 20px;
   width: auto;
   height: auto;
   background: #fff;
-  border-bottom: 100px solid #ccc;
+  border-bottom: 1px solid #ccc;
   text-align: center;
 }
 section:nth-child(even) {
