@@ -97,6 +97,7 @@ h1 {
 }
 section {
   padding-top: 5px;
+  padding-bottom: 20px;
   width: auto;
   height: auto;
   background: #fff;
