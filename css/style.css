@@ -124,9 +124,6 @@ p {
   font-size: 20px;
   text-align: justify;
 }
-.li {
-  text-align: left;
-}
 footer ul {
   display: flex;
   padding: 20px;
