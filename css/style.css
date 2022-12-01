@@ -99,7 +99,7 @@ section {
   width: auto;
   height: auto;
   background: #fff;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 100px solid #ccc;
   text-align: center;
 }
 section:nth-child(even) {
