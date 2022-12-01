@@ -140,6 +140,7 @@ footer ul {
   padding-inline: 3%;
   list-style: none;
   padding: 1%;
+  text-align: left;
 }
 .team-member-photo{
  width: 200px;
