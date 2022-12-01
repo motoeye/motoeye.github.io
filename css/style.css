@@ -96,8 +96,6 @@ h1 {
   padding: 5%;
 }
 section {
-  margin-top: -10px;
-  padding-bottom: 25px;
   width: auto;
   height: auto;
   background: #fff;
@@ -121,7 +119,7 @@ section img {
 }
 p {
   font-weight: lighter;
-  margin: 25px 150px 10px 150px;
+  margin: 25px 150px 25px 150px;
   font-family: "Times New Roman", Times, serif;
   font-size: 20px;
   text-align: justify;
