@@ -93,7 +93,7 @@ h1 {
   font-size: 5rem;
   color: #34495e;
   margin-left: 3%;
-  padding: 0%;
+  padding: 5%;
 }
 section {
   width: auto;
@@ -109,7 +109,7 @@ section:nth-child(odd) {
   background: #eff9ff;
 }
 .sections section:first-child {
-  margin-top: 100px;
+  margin-top: 20px;
 }
 section img {
   display: flex;
@@ -123,6 +123,8 @@ p {
   font-family: "Times New Roman", Times, serif;
   font-size: 20px;
   text-align: justify;
+  list-style: square;
+  list-style-position: outside;
 }
 footer ul {
   display: flex;
