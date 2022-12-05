@@ -199,7 +199,16 @@ footer ul {
   padding-top:25px;
 }
 .design-middle-title{
+  font-weight: bold;
+  color: black;
   vertical-align: middle;
   padding-bottom: 10px;
   padding-top: 10px;
+}
+h3 {
+  font-size: 5rem;
+  color: #34495e;
+  margin-left: 3%;
+  padding: 3.5%;
+  padding-bottom: 0.5%;
 }
