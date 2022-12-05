@@ -191,3 +191,14 @@ footer ul {
 .parent > ul {
   display: inline-block;
 }
+.design-middle-photo{
+  width: 200px;
+  height: 200px;
+  vertical-align: middle;
+  display: inline-flex;
+  margin: auto;
+ }
+.design-middle-title{
+  vertical-align: middle;
+  padding-bottom: 10px;
+}
