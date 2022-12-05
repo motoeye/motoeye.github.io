@@ -183,3 +183,7 @@ footer ul {
   opacity: 0.9;
   transition: opacity 0.4s;
 }
+p ul li {
+  list-style-position: outside;
+  margin-left: 1em;
+}
