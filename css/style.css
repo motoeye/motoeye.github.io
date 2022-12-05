@@ -196,7 +196,8 @@ footer ul {
   height: 300px;
   display: block;
   margin: auto;
- }
+  padding-top:25px;
+}
 .design-middle-title{
   vertical-align: middle;
   padding-bottom: 10px;
