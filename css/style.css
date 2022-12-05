@@ -183,6 +183,9 @@ footer ul {
   opacity: 0.9;
   transition: opacity 0.4s;
 }
-.did {
-  margin-left:10%;
+.parent {
+  text-align: left;
+}
+.parent > ul {
+  display: inline-block;
 }
