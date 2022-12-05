@@ -194,8 +194,7 @@ footer ul {
 .design-middle-photo{
   width: 200px;
   height: 200px;
-  vertical-align: middle;
-  display: inline-flex;
+  display: block;
   margin: auto;
  }
 .design-middle-title{
