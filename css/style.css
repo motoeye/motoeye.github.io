@@ -185,7 +185,7 @@ footer ul {
 }
 .parent {
   text-align: left;
-  margin-left:10%;
+  margin-left:20%;
 }
 .parent > ul {
   display: inline-block;
