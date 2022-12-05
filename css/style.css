@@ -211,7 +211,7 @@ footer ul {
   padding-top: 10px;
 }
 h3 {
-  text-align: left;
+  /* text-align: left; */
   margin-left:15%;
   font-size: 1.5rem;
   color: #000000;
