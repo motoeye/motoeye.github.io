@@ -191,7 +191,7 @@ footer ul {
   color: black;
   padding-top: 1%;
   padding-bottom: 1%;
-  font-size: 1.75rem;
+  font-size: 0.75rem;
 }
 .parent > ul {
   display: inline-block;
@@ -213,7 +213,7 @@ footer ul {
 h3 {
   text-align: left;
   margin-left:10%;
-  font-size: 1.75rem;
+  font-size: 1.25rem;
   color: #000000;
   padding: 3.5%;
   padding-bottom: 0.75%;
