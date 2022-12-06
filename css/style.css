@@ -218,3 +218,13 @@ h3 {
   padding: 3.5%;
   padding-bottom: 0.5%;
 }
+#images{
+  text-align:center;
+  margin:50px auto;
+}
+#images a{
+  margin:0px 20px;
+  display:inline-block;
+  text-decoration:none;
+  color:black;
+}
