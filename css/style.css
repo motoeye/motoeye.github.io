@@ -190,7 +190,7 @@ footer ul {
   transition: opacity 0.4s;
 }
 .parent {
-  text-align: center;
+  text-align: left;
   margin-left:35%;
   color: black;
   padding-top: 0%;
