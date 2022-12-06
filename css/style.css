@@ -219,12 +219,12 @@ h3 {
   padding-bottom: 0.5%;
 }
 #images{
-  width: 400px;
-  height: 350px;
   text-align:center;
   margin:50px auto;
 }
 #images a{
+  width: 400px;
+  height: 350px;
   margin:0px 20px;
   display:inline-block;
   text-decoration:none;
