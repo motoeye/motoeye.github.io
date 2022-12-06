@@ -206,7 +206,6 @@ footer ul {
 .design-middle-title{
   font-weight: bold;
   color: black;
-  vertical-align: middle;
   padding-bottom: 10px;
   padding-top: 10px;
 }
@@ -226,6 +225,7 @@ h3 {
   width: 400px;
   height: 350px;
   margin:0px 20px;
+  padding-bottom: 10px;
   display:inline-block;
   text-decoration:none;
   color:black;
