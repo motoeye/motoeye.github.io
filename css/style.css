@@ -198,8 +198,12 @@ footer ul {
   font-size: 1rem;
 }
 .parent > ul {
-  display: inline-block;
+  /* display: inline-block;
   padding: 0.5%;
+  */
+  margin-left: 3%;
+  padding: 3.5%;
+  padding-bottom: 0.5%;
 }
 .design-middle-photo{
   width: 400px;
