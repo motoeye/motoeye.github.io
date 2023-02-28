@@ -71,16 +71,22 @@
     <hr>
   </div>
   <h2>Summary</h2>
-  <p>test test test</p>
+  <p>All component sections work well as expected after total integration. At this point a first prototype is complete pending on road testing.</p>
   <br>
   <h6>Mechanical</h6>
-  <p>test test test</p>
+  <p>All sides, base, and lid of the box were successfully laser cut. Custom L-brackets were 3D printed. Box was assembled along with all electrical
+     components mounted and lid secured. Plan to paint acrylic after testing has been completed. </p>
   <br>
   <h6>Electrical/Hardware</h6>
-  <p> test test test</p>
+  <p>Final power system wired together within box and being powered from a 12 V supply (the voltage of a motorcycle battery). Custom cables all working,
+     including communication between camera and pi and both LEDs. Cable management completed for neatness within housing. Currently, the 
+     status LED is hard wired to power pin of Raspberry Pi to indicate system power. </p>
   <br>
   <h6>Software</h6>
-  <p>test test test</p>
+  <p>Final touches made on object detection algorithm, with filtering done for objects that are likley be classified as obstacles on the road. 
+     Integration with the GPIO firmware to light up the warning LED completed and was tested with human detection.  
+     Relative velocity algorithm also implemented and tested with human interaction (LED should only turn on while walking quickly towards the camera i.e. higher relative velocity). 
+     Software ready to be tested on the road! </p>
 </div>
 
 <div class="blog">
@@ -90,16 +96,20 @@
     <hr>
   </div>
   <h2>Summary</h2>
-  <p>test test test</p>
+  <p>Progress in all sections are complete or near completion pending small challenges. Introductory steps of component integration has begun.</p>
   <br>
   <h6>Mechanical</h6>
-  <p>test test test</p>
+  <p>More mechanical design changes made in order to enable assembly of separate laser cut acrylic sides of the box. Overall plan is to join 
+    sides using custom 3D printed L-brackets and sealant (for water-proofing and extra security). All required fasteners purchased. Test laser cut completed.</p>
   <br>
   <h6>Electrical/Hardware</h6>
-  <p> test test test</p>
+  <p>More custom cables built. Begin using Raspberry Pi as host computer for camera! In order to do this, a virtual environment was setup on the Pi where 
+    all required libraries were installed, including OpenCV. Additional firmware was developed in order to light up test LEDs on a breadboard using the 
+    GPIO pins of the Pi.</p>
   <br>
   <h6>Software</h6>
-  <p>test test test</p>
+  <p>Begun development logic for lighting up LED when object detected in certain distance range. At this point, developemnt is incomplete due to challenges
+    regarding false detections and multple object detection </p>
 </div>
 
 <div class="blog">
@@ -109,16 +119,20 @@
     <hr>
   </div>
   <h2>Summary</h2>
-  <p>test test test</p>
+  <p>Progress of development continues in all aspects of the project. Mechanical design changes are required for overall durability</p>
   <br>
   <h6>Mechanical</h6>
-  <p>test test test</p>
+  <p>Small mechanical design change for how the lid will be mounted to the box. 3D printed the box in PLA (no lid) with success. All mounting holes 
+    were confirmed to be dimensioned properly for electronics mounting. While torquing down screws, small deformities resulted in the PLA. 
+    New approach -> laser cut acrylic as this material has a stronger yield strength </p>
   <br>
   <h6>Electrical/Hardware</h6>
-  <p> test test test</p>
+  <p>Started testing power system (DC-DC converter being used to power camera and Raspberry Pi). Begin constructing custom cables for system. 
+    Remote access to Pi over SSH achieved. </p>
   <br>
   <h6>Software</h6>
-  <p>test test test</p>
+  <p>Reliability of object detection proved to be unreliable. Several datasets were tried as well as different neural networks. Upgrading to the
+    Yolo V6 Nano Neutral network using the coco dataset provided most accurate detection. All hosting was primarily done on a laptop at this point.</p>
 </div>
 
 <div class="blog">
